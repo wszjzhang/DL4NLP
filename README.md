@@ -10,3 +10,6 @@ List of Notebooks:
 3. Seq2Seq
 4. Attention
 5. Transformer
+6. ELMo
+7. Open AI GPT
+8. BERT
