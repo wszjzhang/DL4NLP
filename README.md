@@ -13,3 +13,5 @@ List of Notebooks:
 6. ELMo
 7. Open AI GPT
 8. BERT
+9. Open AI GPT-2
+10. Facebook XLM
